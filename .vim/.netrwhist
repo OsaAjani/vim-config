@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/var/www/descartes/modules/DescartesMinify/internals'
+let g:netrw_dirhist_2='/var/www/descartes/controllers/publics'
+let g:netrw_dirhist_3='/var/www/descartes/controllers/internals'
+let g:netrw_dirhist_4='/var/www/descartes/tests'
+let g:netrw_dirhist_5='/var/www/descartes/modules/DescartesMinify'
+let g:netrw_dirhist_6='/var/www/html/sphinx.loc/templates/Incs'
+let g:netrw_dirhist_7='/var/www/html/sphinx.loc/controllers/publics'
+let g:netrw_dirhist_8='/var/www/html/sphinx.loc/templates/Account'
+let g:netrw_dirhist_9='/media/ajani/Memorissimo/full_sav/var/www/html/sphinx.loc/controllers/publics'
