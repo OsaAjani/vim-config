@@ -1,4 +1,4 @@
-#Config vim editor
+# Config vim editor
 Config for vim.
 
 **List of configs :**
@@ -8,5 +8,5 @@ Auto indent
 4 spaces indent
 Probably some other things i've forgot
 
-##How to use
+## How to use
 Copy content of the repo to ```$HOME/```
